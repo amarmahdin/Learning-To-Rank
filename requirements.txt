@@ -1,0 +1,7 @@
+matplotlib
+seaborn
+pandas
+openpyxl
+tensorflow
+scikit-learn
+psutil
